@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktwamm_lite=self.webpackChunktwamm_lite||[]).push([[443],{3155:(e,m,a)=>{Object.defineProperty(m,"__esModule",{value:!0}),m.RenderTwamm=void 0;const d=a(1527);m.RenderTwamm=()=>(0,d.jsx)("div",{children:"Home"})}},e=>{var m=(3155,e(e.s=3155));window.TwammRenderer=m}]);
+//# sourceMappingURL=main-0.1.0-app.js.map

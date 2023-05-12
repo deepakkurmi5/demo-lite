@@ -1,0 +1,9 @@
+{
+    "Heading": "Twamm Lite",
+    "Subtitle": "An open-sourced, lite version of twamm that provides end-to-end swap flow by linking it in your HTML. Check out the visual demo for the various integration modes below.",
+    "Tabs": [
+        "Modal",
+        "Integrated",
+        "Widget"
+    ]
+}
